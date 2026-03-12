@@ -6,3 +6,7 @@ release/
 *.su
 *.elf
 *.map
+.DS_Store
+.AppleDouble
+__MACOSX/
+._*
